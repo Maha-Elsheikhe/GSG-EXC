@@ -16,7 +16,7 @@ text = input("Enter your text statement:")
 print(text.upper())
 print(len(text))
 print(text.split(" "))
-print("Python"in text)
+print("Python" in text)
 print(text[::-1])
 
 # Exercise 3
