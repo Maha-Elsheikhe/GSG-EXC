@@ -1,7 +1,1 @@
-print(f"Sum => {num1 + num2}")
-# print(f"Subtract => {num1 - num2}")
-# print(f"Multiply => {num1 * num2}")
-# print(f"Divide => {num1 / num2}")
-# print(f"Floor Divide => {num1 // num2}")
-# print(f"Modulo => {num1 % num2}")
-# print(f"Power => {num1 ** num2}")
+reversed(
